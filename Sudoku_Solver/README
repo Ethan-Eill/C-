@@ -1,1 +1,10 @@
+Ethan Eill
+03/16/2022
 
+Sudoku Solver using selenium to automatically travel to website, grab 
+puzzle, solve, then output to website without user input
+
+*IMPORTANT*
+
+In order for this code to run, chromedriver must be installed
+and same version as your chrome browser
